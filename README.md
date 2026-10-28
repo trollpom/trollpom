@@ -8,14 +8,14 @@
 
 В собственных проектах развиваю навыки Python, JavaScript и TypeScript, использую ИИ и AI coding tools. Соединяю продуктовый подход с практикой веб-разработки: определяю сценарии, собираю решения и проверяю их ограничения.
 
-**Быстрый переход:** [Собрано](https://github.com/trollpom/family-pokupki) · [My-CRM](https://github.com/trollpom/My-CRM) · [Авто Банкрот](https://github.com/trollpom/AUTO_BANKROT) · [Веб-демонстрации](#веб-демонстрации)
+**Быстрый переход:** [family_menu](https://github.com/trollpom/family_menu) · [My-CRM](https://github.com/trollpom/My-CRM) · [car_lot_pilot](https://github.com/trollpom/car_lot_pilot) · [Веб-демонстрации](#веб-демонстрации)
 
 ## Посмотреть за минуту
 
-| My-CRM | Собрано | Авто Банкрот |
+| My-CRM | family_menu | car_lot_pilot |
 | --- | --- | --- |
-| [![Обзор My-CRM](https://raw.githubusercontent.com/trollpom/My-CRM/main/docs/screenshots/01-overview.png)](https://github.com/trollpom/My-CRM#демонстрация-для-жюри) | [![Недельное меню](https://raw.githubusercontent.com/trollpom/family-pokupki/main/docs/screenshots/01-menu.png)](https://github.com/trollpom/family-pokupki#демонстрация-для-жюри) | [![Каталог лотов](https://raw.githubusercontent.com/trollpom/AUTO_BANKROT/master/docs/screenshots/01-catalog.png)](https://github.com/trollpom/AUTO_BANKROT#демонстрация-для-жюри) |
-| [Скриншоты и GIF](https://github.com/trollpom/My-CRM#демонстрация-для-жюри) · [локальное демо без ключей](https://github.com/trollpom/My-CRM/tree/main/demo) | [Меню → рецепт → покупки](https://github.com/trollpom/family-pokupki#демонстрация-для-жюри) | [Лот → карточка → расчёт](https://github.com/trollpom/AUTO_BANKROT#демонстрация-для-жюри) |
+| [![Обзор My-CRM](https://raw.githubusercontent.com/trollpom/My-CRM/main/docs/screenshots/01-overview.png)](https://github.com/trollpom/My-CRM#демонстрация-для-жюри) | [![Недельное меню](https://raw.githubusercontent.com/trollpom/family_menu/main/docs/screenshots/01-menu.png)](https://github.com/trollpom/family_menu#демонстрация-для-жюри) | [![Каталог лотов](https://raw.githubusercontent.com/trollpom/car_lot_pilot/master/docs/screenshots/01-catalog.png)](https://github.com/trollpom/car_lot_pilot#демонстрация-для-жюри) |
+| [Скриншоты и GIF](https://github.com/trollpom/My-CRM#демонстрация-для-жюри) · [локальное демо без ключей](https://github.com/trollpom/My-CRM/tree/main/demo) | [Меню → рецепт → покупки](https://github.com/trollpom/family_menu#демонстрация-для-жюри) | [Лот → карточка → расчёт](https://github.com/trollpom/car_lot_pilot#демонстрация-для-жюри) |
 
 Реальные экраны приложений на синтетических данных. GIF показывают последовательность экранов; платный LLM в этих демонстрациях не вызывается. В README каждого проекта — схема роли ИИ и границы автоматической проверки.
 
@@ -23,9 +23,9 @@
 
 | Проект | Задача и подход | Технологии | Как посмотреть |
 | --- | --- | --- | --- |
-| **[Собрано](https://github.com/trollpom/family-pokupki)** | Меню семьи → рецепты → пересчёт продуктов и упаковок → список покупок. DeepSeek предлагает рецепты, код проверяет ответы и считает покупки. Полнота магазинных каталогов ограничена. | TypeScript, React, Next.js/Vinext, SQLite/D1, DeepSeek | Реальные скриншоты, GIF, схема ИИ и инструкции в README. Публичная интерактивная демоверсия не заявляется. |
+| **[family_menu](https://github.com/trollpom/family_menu)** | Меню семьи → рецепты → пересчёт продуктов и упаковок → список покупок. DeepSeek предлагает рецепты, код проверяет ответы и считает покупки. Полнота магазинных каталогов ограничена. | TypeScript, React, Next.js/Vinext, SQLite/D1, DeepSeek | Реальные скриншоты, GIF, схема ИИ и инструкции в README. Публичная интерактивная демоверсия не заявляется. |
 | **[My-CRM](https://github.com/trollpom/My-CRM)** | Локальный планировщик: задачи, проекты, канбан, календарь, Гант, почта IMAP и помощник DeepSeek. | Python, FastAPI, SQLite, JavaScript, IMAP | Изолированное локальное демо: 3 проекта и 8 задач, без почты и ключей. Скриншоты и GIF в README. |
-| **[Авто Банкрот](https://github.com/trollpom/AUTO_BANKROT)** | Автомобильные торги: каталог лотов, запрос сведений и фото у управляющих по SMTP, приём ответов по IMAP и дополнение карточек. В основную ветку включены анализ лота через DeepSeek и сценарный расчёт экономики. | Python, FastAPI, SQLite, SMTP/IMAP, DeepSeek API | Открытый код, скриншоты и GIF расчёта без API. LLM-модуль в основной ветке; рыночные источники требуют отдельной проверки. |
+| **[car_lot_pilot](https://github.com/trollpom/car_lot_pilot)** | Автомобильные торги: каталог лотов, запрос сведений и фото у управляющих по SMTP, приём ответов по IMAP и дополнение карточек. В основную ветку включены анализ лота через DeepSeek и сценарный расчёт экономики. | Python, FastAPI, SQLite, SMTP/IMAP, DeepSeek API | Открытый код, скриншоты и GIF расчёта без API. LLM-модуль в основной ветке; рыночные источники требуют отдельной проверки. |
 
 Все три проекта — личные прототипы. Коммерческие внедрения и измеренная экономия времени или денег не заявляются.
 
