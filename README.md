@@ -12,6 +12,8 @@
 
 ## Посмотреть за минуту
 
+Скриншоты ниже сделаны до переименования проектов в `family_menu` и `car_lot_pilot`; на изображениях сохранено прежнее оформление.
+
 | My-CRM | family_menu | car_lot_pilot |
 | --- | --- | --- |
 | [![Обзор My-CRM](https://raw.githubusercontent.com/trollpom/My-CRM/main/docs/screenshots/01-overview.png)](https://github.com/trollpom/My-CRM#демонстрация-для-жюри) | [![Недельное меню](https://raw.githubusercontent.com/trollpom/family_menu/main/docs/screenshots/01-menu.png)](https://github.com/trollpom/family_menu#демонстрация-для-жюри) | [![Каталог лотов](https://raw.githubusercontent.com/trollpom/car_lot_pilot/master/docs/screenshots/01-catalog.png)](https://github.com/trollpom/car_lot_pilot#демонстрация-для-жюри) |
