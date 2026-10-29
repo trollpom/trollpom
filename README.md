@@ -8,13 +8,13 @@
 
 В собственных проектах развиваю навыки Python, JavaScript и TypeScript, использую ИИ и AI coding tools. Соединяю продуктовый подход с практикой веб-разработки: определяю сценарии, собираю решения и проверяю их ограничения.
 
-**Быстрый переход:** [family_menu](https://github.com/trollpom/family_menu) · [My-CRM](https://github.com/trollpom/My-CRM) · [car_lot_pilot](https://github.com/trollpom/car_lot_pilot) · [Веб-демонстрации](#веб-демонстрации)
+**Быстрый переход:** [Семейное меню](https://github.com/trollpom/family_menu) · [My-CRM](https://github.com/trollpom/My-CRM) · [Автомобильные торги](https://github.com/trollpom/car_lot_pilot) · [Веб-демонстрации](#веб-демонстрации)
 
 ## Посмотреть за минуту
 
 Скриншоты ниже сделаны до переименования проектов в `family_menu` и `car_lot_pilot`; на изображениях сохранено прежнее оформление.
 
-| My-CRM | family_menu | car_lot_pilot |
+| My-CRM | Семейное меню | Автомобильные торги |
 | --- | --- | --- |
 | [![Обзор My-CRM](https://raw.githubusercontent.com/trollpom/My-CRM/main/docs/screenshots/01-overview.png)](https://github.com/trollpom/My-CRM#демонстрация-для-жюри) | [![Недельное меню](https://raw.githubusercontent.com/trollpom/family_menu/main/docs/screenshots/01-menu.png)](https://github.com/trollpom/family_menu#демонстрация-для-жюри) | [![Каталог лотов](https://raw.githubusercontent.com/trollpom/car_lot_pilot/master/docs/screenshots/01-catalog.png)](https://github.com/trollpom/car_lot_pilot#демонстрация-для-жюри) |
 | [Скриншоты и GIF](https://github.com/trollpom/My-CRM#демонстрация-для-жюри) · [локальное демо без ключей](https://github.com/trollpom/My-CRM/tree/main/demo) | [Меню → рецепт → покупки](https://github.com/trollpom/family_menu#демонстрация-для-жюри) | [Лот → карточка → расчёт](https://github.com/trollpom/car_lot_pilot#демонстрация-для-жюри) |
@@ -25,9 +25,9 @@
 
 | Проект | Задача и подход | Технологии | Как посмотреть |
 | --- | --- | --- | --- |
-| **[family_menu](https://github.com/trollpom/family_menu)** | Меню семьи → рецепты → пересчёт продуктов и упаковок → список покупок. DeepSeek предлагает рецепты, код проверяет ответы и считает покупки. Полнота магазинных каталогов ограничена. | TypeScript, React, Next.js/Vinext, SQLite/D1, DeepSeek | Реальные скриншоты, GIF, схема ИИ и инструкции в README. Публичная интерактивная демоверсия не заявляется. |
+| **[Семейное меню](https://github.com/trollpom/family_menu)** | Меню семьи → рецепты → пересчёт продуктов и упаковок → список покупок. DeepSeek предлагает рецепты, код проверяет ответы и считает покупки. Полнота магазинных каталогов ограничена. | TypeScript, React, Next.js/Vinext, SQLite/D1, DeepSeek | Реальные скриншоты, GIF, схема ИИ и инструкции в README. Публичная интерактивная демоверсия не заявляется. |
 | **[My-CRM](https://github.com/trollpom/My-CRM)** | Локальный планировщик: задачи, проекты, канбан, календарь, Гант, почта IMAP и помощник DeepSeek. | Python, FastAPI, SQLite, JavaScript, IMAP | Изолированное локальное демо: 3 проекта и 8 задач, без почты и ключей. Скриншоты и GIF в README. |
-| **[car_lot_pilot](https://github.com/trollpom/car_lot_pilot)** | Автомобильные торги: каталог лотов, запрос сведений и фото у управляющих по SMTP, приём ответов по IMAP и дополнение карточек. В основную ветку включены анализ лота через DeepSeek и сценарный расчёт экономики. | Python, FastAPI, SQLite, SMTP/IMAP, DeepSeek API | Открытый код, скриншоты и GIF расчёта без API. LLM-модуль в основной ветке; рыночные источники требуют отдельной проверки. |
+| **[Автомобильные торги](https://github.com/trollpom/car_lot_pilot)** | Автомобильные торги: каталог лотов, запрос сведений и фото у управляющих по SMTP, приём ответов по IMAP и дополнение карточек. В основную ветку включены анализ лота через DeepSeek и сценарный расчёт экономики. | Python, FastAPI, SQLite, SMTP/IMAP, DeepSeek API | Открытый код, скриншоты и GIF расчёта без API. LLM-модуль в основной ветке; рыночные источники требуют отдельной проверки. |
 
 Все три проекта — личные прототипы. Коммерческие внедрения и измеренная экономия времени или денег не заявляются.
 
